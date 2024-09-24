@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, Image } from 'react-native';
-import { Ionicons } from '@expo/vector-icons'; // If using Expo, you can use vector icons
+import { Ionicons } from '@expo/vector-icons'; 
 
 export default function HomeScreen() {
   return (

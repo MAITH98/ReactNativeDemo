@@ -45,7 +45,6 @@ function TodoScreen({navigation}){
       
     return(
 
-        //todoapp
         <View style={styles.appcontainer}>
             <View >
                 <Image
